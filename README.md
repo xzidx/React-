@@ -1,40 +1,61 @@
-# Project Name
+# React Practice
 
-> Short description of the project.
+> A short description of this project.
 
-## Table of Contents
+## About
+Write a brief introduction about the project.
 
-## 1. Overview
-- Introduction
-- Purpose
-- Objectives
+## Objectives
+- Learn React fundamentals.
+- Practice JavaScript.
+- Understand React project structure.
 
-## 2. Features
-- Main features
-- Additional features
+## Technologies Used
+- React
+- JavaScript
+- Vite
+- HTML
+- CSS
 
-## 3. Technologies Used
-- Programming languages
-- Frameworks and libraries
-- Tools
+## Getting Started
 
-## 4. Project Structure
+### Prerequisites
+- Node.js
+- npm
 
-## 5. Getting Started
-- Prerequisites
-- Installation
-- Configuration
-- Running the project
+### Installation
 
-## 6. Usage
+```bash
+npm install
+```
 
-## 7. Screenshots
+### Run the Project
 
-## 8. Contributing
+```bash
+npm run dev
+```
 
-## 9. License
+## Project Structure
 
-## 10. Contact
-- Name
-- Email
-- GitHub
+```text
+my-react-app/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+├── index.html
+├── package.json
+└── README.md
+```
+
+## Screenshots
+Add project screenshots here.
+
+## Author
+- Name: Your Name
+- GitHub: Your GitHub Profile
+
+## License
+This project is for learning purposes.
